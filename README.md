@@ -1,2 +1,2 @@
 # Myhouse
-En inicio, es un nuevo comienzo.
+El inicio, es un nuevo comienzo.
